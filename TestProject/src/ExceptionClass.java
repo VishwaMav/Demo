@@ -21,6 +21,7 @@ public class ExceptionClass {
 			finally
 			{
 				System.out.println("Bye...");
+				System.out.println("In branchdemo");
 			}
 		}
 
