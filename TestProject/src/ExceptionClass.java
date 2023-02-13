@@ -20,7 +20,7 @@ public class ExceptionClass {
 			
 			finally
 			{
-				System.out.println("Log off");
+				System.out.println("Bye...");
 			}
 		}
 
